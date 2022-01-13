@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C11 Old Footprint=DIP-EC10X17 New Footprint=dip-ec10*17
+Added Pin To Net: NetName=VOUT Pin=C11-+
+Added Pin To Net: NetName=GND Pin=C11--
+Added Room: Name=Sheet1

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C4 Old Footprint=DIP-EC7.5X16X25 New Footprint=rad8*11
+Added Pin To Net: NetName=VIN Pin=C4-+
+Added Pin To Net: NetName=GND Pin=C4--
+Added Room: Name=Sheet1

@@ -1,0 +1,6 @@
+Added Component: Designator=D1(0805¶þ¼«¹Ü)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED
+Added Room: Name=Sheet1

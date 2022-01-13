@@ -1,0 +1,147 @@
+Added Component: Designator=CONN1(xt60pw-f)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN2(XT30UPB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN3(XT30UPB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN4(XT30UPB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN5(XT30UPB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN6(XT30UPB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN7(XT30UPB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CONN8(xt60pw-f)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(gh1.25-2p-立)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "53261-0271"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/53261-0271/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805_R)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=CONN1-N
+Added Pin To Net: NetName=GND Pin=CONN2-N
+Added Pin To Net: NetName=GND Pin=CONN3-N
+Added Pin To Net: NetName=GND Pin=CONN4-N
+Added Pin To Net: NetName=GND Pin=CONN5-N
+Added Pin To Net: NetName=GND Pin=CONN6-N
+Added Pin To Net: NetName=GND Pin=CONN7-N
+Added Pin To Net: NetName=GND Pin=CONN8-N
+Added Pin To Net: NetName=GND Pin=J1-P
+Added Pin To Net: NetName=GND Pin=J1-P
+Added Pin To Net: NetName=GND Pin=J2-P
+Added Pin To Net: NetName=GND Pin=J2-P
+Added Pin To Net: NetName=GND Pin=J3-P
+Added Pin To Net: NetName=GND Pin=J3-P
+Added Pin To Net: NetName=GND Pin=J4-P
+Added Pin To Net: NetName=GND Pin=J4-P
+Added Pin To Net: NetName=GND Pin=J5-P
+Added Pin To Net: NetName=GND Pin=J5-P
+Added Pin To Net: NetName=GND Pin=J6-P
+Added Pin To Net: NetName=GND Pin=J6-P
+Added Pin To Net: NetName=GND Pin=J7-P
+Added Pin To Net: NetName=GND Pin=J7-P
+Added Pin To Net: NetName=GND Pin=J8-P
+Added Pin To Net: NetName=GND Pin=J8-P
+Added Net: Name=GND
+Added Pin To Net: NetName=NET1 Pin=J1-1
+Added Pin To Net: NetName=NET1 Pin=J2-1
+Added Pin To Net: NetName=NET1 Pin=J3-1
+Added Pin To Net: NetName=NET1 Pin=J4-1
+Added Pin To Net: NetName=NET1 Pin=J5-1
+Added Pin To Net: NetName=NET1 Pin=J6-1
+Added Pin To Net: NetName=NET1 Pin=J7-1
+Added Pin To Net: NetName=NET1 Pin=J8-1
+Added Net: Name=NET1
+Added Pin To Net: NetName=NET2 Pin=J1-2
+Added Pin To Net: NetName=NET2 Pin=J2-2
+Added Pin To Net: NetName=NET2 Pin=J3-2
+Added Pin To Net: NetName=NET2 Pin=J4-2
+Added Pin To Net: NetName=NET2 Pin=J5-2
+Added Pin To Net: NetName=NET2 Pin=J6-2
+Added Pin To Net: NetName=NET2 Pin=J7-2
+Added Pin To Net: NetName=NET2 Pin=J8-2
+Added Net: Name=NET2
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=VCC Pin=CONN1-P
+Added Pin To Net: NetName=VCC Pin=CONN2-P
+Added Pin To Net: NetName=VCC Pin=CONN3-P
+Added Pin To Net: NetName=VCC Pin=CONN4-P
+Added Pin To Net: NetName=VCC Pin=CONN5-P
+Added Pin To Net: NetName=VCC Pin=CONN6-P
+Added Pin To Net: NetName=VCC Pin=CONN7-P
+Added Pin To Net: NetName=VCC Pin=CONN8-P
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
