@@ -2,52 +2,10 @@
 FileName = PCB2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 13
-      File : PCB2.GM13
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 1
       File : PCB2.GM1
 
     Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PCB2.GM15
-
-    Adding Layer      : Mechanical 15
 
     Adding Layer      : Mechanical 1
 
@@ -111,5 +69,47 @@ Used DCodes :
     D13
     D14
     D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB2.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB2.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
 *************************************************************
 

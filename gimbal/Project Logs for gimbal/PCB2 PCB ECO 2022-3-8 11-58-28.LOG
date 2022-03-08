@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=U2-0
+Removed Pin From Net: NetName=SW Pin=U3-0
+Change Component Comment : Designator=R9 Old Comment=300k New Comment=250k
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Added Room: Name=Sheet1

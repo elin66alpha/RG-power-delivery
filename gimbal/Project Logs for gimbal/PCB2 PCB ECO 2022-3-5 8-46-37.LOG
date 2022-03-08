@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=VIN Pin=CONN1-N
+Removed Pin From Net: NetName=GND Pin=CONN1-P
+Removed Pin From Net: NetName=VCC Pin=CONN2-N
+Removed Pin From Net: NetName=GND Pin=CONN2-P
+Removed Pin From Net: NetName=VCC Pin=CONN3-N
+Removed Pin From Net: NetName=GND Pin=CONN3-P
+Removed Pin From Net: NetName=VCC Pin=CONN4-N
+Removed Pin From Net: NetName=GND Pin=CONN4-P
+Removed Pin From Net: NetName=AVCC Pin=CONN5-N
+Removed Pin From Net: NetName=GND Pin=CONN5-P
+Removed Pin From Net: NetName=AVCC Pin=CONN6-N
+Removed Pin From Net: NetName=GND Pin=CONN6-P
+Removed Pin From Net: NetName=AVCC Pin=CONN7-N
+Removed Pin From Net: NetName=GND Pin=CONN7-P
+Removed Pin From Net: NetName=AVCC Pin=CONN8-N
+Removed Pin From Net: NetName=GND Pin=CONN8-P
+Removed Pin From Net: NetName=AVCC Pin=CONN9-N
+Removed Pin From Net: NetName=GND Pin=CONN9-P
+Removed Pin From Net: NetName=VOUT Pin=CONN10-N
+Removed Pin From Net: NetName=GND_OUT Pin=CONN10-P
+Removed Pin From Net: NetName=NetR1_2 Pin=U2-0
+Removed Pin From Net: NetName=SW Pin=U3-0
+Change Component Comment : Designator=R10 Old Comment=10k New Comment=20k
+Change Component Comment : Designator=R9 Old Comment=158k New Comment=300k
+Added Pin To Net: NetName=GND Pin=CONN1-N
+Added Pin To Net: NetName=VIN Pin=CONN1-P
+Added Pin To Net: NetName=GND Pin=CONN2-N
+Added Pin To Net: NetName=VCC Pin=CONN2-P
+Added Pin To Net: NetName=GND Pin=CONN3-N
+Added Pin To Net: NetName=VCC Pin=CONN3-P
+Added Pin To Net: NetName=GND Pin=CONN4-N
+Added Pin To Net: NetName=VCC Pin=CONN4-P
+Added Pin To Net: NetName=GND Pin=CONN5-N
+Added Pin To Net: NetName=VCC Pin=CONN5-P
+Added Pin To Net: NetName=GND Pin=CONN6-N
+Added Pin To Net: NetName=GND Pin=CONN7-N
+Added Pin To Net: NetName=AVCC Pin=CONN7-P
+Added Pin To Net: NetName=GND Pin=CONN8-N
+Added Pin To Net: NetName=AVCC Pin=CONN8-P
+Added Pin To Net: NetName=GND Pin=CONN9-N
+Added Pin To Net: NetName=AVCC Pin=CONN9-P
+Added Pin To Net: NetName=GND_OUT Pin=CONN10-N
+Added Room: Name=Sheet1
